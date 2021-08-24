@@ -1,0 +1,9 @@
+.calculator_body{
+    height: 500px;
+    width: 500px; 
+}
+
+.all_buttons{
+    display:grid;
+
+}
